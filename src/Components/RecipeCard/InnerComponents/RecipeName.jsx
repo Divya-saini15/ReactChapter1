@@ -1,10 +1,10 @@
+import "../InnerComponents/RecipeName.css";
 function RecipeName() {
   return (
     <>
       <div className="recipe-name">
         <h2>Spaghetti Carbonara</h2>
       </div>
-      ;
     </>
   );
 }

@@ -1,3 +1,4 @@
+import './Ingreedents.css'
 function Ingreedents() {
     return (
       <>
@@ -9,7 +10,7 @@ function Ingreedents() {
             <li>50g pecorino cheese</li>
           </ul>
         </div>
-        ;
+        
       </>
     );
   }

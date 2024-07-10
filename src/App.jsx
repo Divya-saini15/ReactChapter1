@@ -1,12 +1,11 @@
-
-
+import RecipeList from "./Components/RecipeList/RecipeList";
+import './App.css'
 function App() {
-
   return (
     <>
-      <h1>This is App</h1>
+      <RecipeList />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

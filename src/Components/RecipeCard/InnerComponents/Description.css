@@ -1,0 +1,10 @@
+.description {
+    padding: 1rem;
+    background-color: var(--secondary-color);
+    color: white;
+  }
+  
+  .description p {
+    margin: 0;
+    line-height: 1.6;
+  }
